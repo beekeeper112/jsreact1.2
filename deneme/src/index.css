@@ -1,0 +1,8 @@
+.counter{
+  background-color: aqua;
+  margin: 10px auto; /* hem üst-alt boşluk hem ortalama */
+  text-align: center;
+  width: 400px; /* istediğin genişliği buradan ayarla */
+  padding: 20px; /* iç boşluk (isteğe bağlı) */
+  border-radius: 10px; /* köşeleri yumuşatma (isteğe bağlı) */
+}
